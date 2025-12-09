@@ -1,0 +1,5 @@
+{
+  "appId": "com.student.expense",
+  "appName": "Expense Tracker",
+  "webDir": "dist"
+}
